@@ -1,0 +1,6 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "Logitech MX Master 2S": "my-mx-master"
+    }
+}
